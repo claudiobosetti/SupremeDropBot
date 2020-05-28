@@ -14,6 +14,8 @@ A Python bot for buying stuff during drops on https://www.supremenewyork.com/sho
 py -m pip install selenium
 python3 -m pip install selenium
 ```
+* Install Google Chrome (https://www.google.com/intl/en_en/chrome/)
+* Install chromedriver and add it to PATH (https://chromedriver.chromium.org/downloads)
 
 ## Run :runner:
 
